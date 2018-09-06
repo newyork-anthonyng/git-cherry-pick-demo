@@ -4,7 +4,7 @@ Hello World
 How are you doing?
 
 This is some more text.
-This is another line.
+THIS IS ANOTHER LINE.
 
 # `git cherry-pick` demo
 This shows an example of how `git cherry-pick` only replays the work done in the commit. You can lose work from other commits that you don't `cherry-pick`.
